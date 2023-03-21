@@ -5,7 +5,7 @@ this python script is to crop images according to the coordinates of the boundin
 1. create the environment
 
 ```bash
-python3 -m venv .
+python3 -m venv venv
 ```
 
 2. activate the environment
