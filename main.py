@@ -58,6 +58,7 @@ def get_lines(num_line_x=1, max_pixel_size=1000, axis="x"):
     return lines
 
 
+# this is deprecated, but I'm keeping it for now (it uses the old data format, by terminal)
 def cut_image(image):
     height = image.shape[0]
     width = image.shape[1]
@@ -146,13 +147,14 @@ def __main__():
 
     output_folder = "output"
     output_folder_images = output_folder + "/images/"
+    format_image = "png"
     # create the folder to save the output
     if not os.path.exists(output_folder_images):
         print("creating folder")
         os.makedirs(output_folder_images)
 
     csv_file = CreateCSV(output_folder + "/data.csv")
-    lines = data.bra2
+    lines = data.international_women_days
 
     for index, value in enumerate(lines):
         initial_height = 0
@@ -182,7 +184,17 @@ def __main__():
 
             new_image = image[initial_height:int(
                 value["end_pixel"]), initial_width:int(value_x)]
-            file_name = f"Image {index}-{index_x}.jpg"
+            
+            file_name_number = ""
+            if index < 9:
+                file_name_number = f"0{index+1}"
+            else:
+                file_name_number += f"{index+1}"
+            print(value["lines_x"])
+            if len(value["lines_x"]) > 1:
+                file_name_number += f"-{index_x+1}"
+            
+            file_name = f"image {file_name_number}.{format_image}"
 
             csv_file.write( file_name, url, '', new_image.shape[1])
 

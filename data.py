@@ -136,5 +136,9 @@ bra2 = [
             {"size": 400, "url": "https://danielsmpv.com/"},
             650
         ]
+    },
+    {
+        "end_pixel": 3110,
+        "lines_x": [650]
     }
 ]
