@@ -154,7 +154,9 @@ def __main__():
         os.makedirs(output_folder_images)
 
     csv_file = CreateCSV(output_folder + "/data.csv")
-    lines = data.international_women_days
+
+    #change according to your needs
+    lines = data.e47
 
     for index, value in enumerate(lines):
         initial_height = 0
