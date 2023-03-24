@@ -156,7 +156,7 @@ def __main__():
     csv_file = CreateCSV(output_folder + "/data.csv")
 
     #change according to your needs
-    lines = data.e47
+    lines = data.e76a
 
     for index, value in enumerate(lines):
         initial_height = 0

@@ -202,7 +202,7 @@ e47 = [
     {"end_pixel": 3852, "lines_x": [250, {
         "size": 278, "url": "https://www.facebook.com/thedanielscorporation/"
     }, {
-        "size": 309, "url": "https://www.facebook.com/thedanielscorporation/"
+        "size": 309, "url": "https://twitter.com/thedanielscorp?lang=en"
     }, {
         "size": 339, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
     }, {
@@ -212,4 +212,99 @@ e47 = [
     }, 650]},
     {"end_pixel": 4024, "lines_x": [650]},
 
+]
+
+
+e72a = [
+    {"end_pixel": 66, "lines_x": [650]},
+    {"end_pixel": 256, "lines_x": [109, {
+        "size": 541, "url": " https://danielsmpv.com/"
+    }, 650]},
+    {"end_pixel": 447, "lines_x": [650]},
+    {"end_pixel": 853, "lines_x": [{
+        "size": 650, "url": " https://danielsmpv.com/"
+    }]},
+    {"end_pixel": 1063, "lines_x": [650]},
+    {"end_pixel": 1411, "lines_x": [650]},
+    {"end_pixel": 1747, "lines_x": [650]},
+    {"end_pixel": 1975, "lines_x": [650]},
+    {"end_pixel": 2366, "lines_x": [{
+        "size": 650, "url": " https://danielsmpv.com/"
+    }]},
+    {"end_pixel": 2566, "lines_x": [650]},
+    {"end_pixel": 2936, "lines_x": [{
+        "size": 650, "url": " https://danielsmpv.com/"
+    }]},
+    {"end_pixel": 3104, "lines_x": [650]},
+    {"end_pixel": 3484, "lines_x": [{
+        "size": 650, "url": " https://danielsmpv.com/"
+    }]},
+    {"end_pixel": 3668, "lines_x": [650]},
+    {"end_pixel": 4048, "lines_x": [{
+        "size": 650, "url": " https://danielsmpv.com/"
+    }]},
+    {"end_pixel": 4390, "lines_x": [650]},
+    {"end_pixel": 4773, "lines_x": [{
+        "size": 650, "url": " https://danielsmpv.com/"
+    }]},
+    {"end_pixel": 4806, "lines_x": [650]},
+    {"end_pixel": 4833, "lines_x": [219,{
+        "size": 430, "url": " https://danielsmpv.com/"
+    }, 650]},
+    {"end_pixel": 4865, "lines_x": [110,{
+        "size": 387, "url": "mailto:mpv@danielscorp.com"
+    }, {
+        "size": 541, "url": "tel:905-230-2552"
+    }, 650]},
+    {"end_pixel": 4892, "lines_x": [650]},
+    {"end_pixel": 4963, "lines_x": [246, {
+        "size": 403, "url": "https://danielshomes.ca/"
+    }, 650]},
+    {"end_pixel": 4979, "lines_x": [650]},
+    {"end_pixel": 5002, "lines_x": [250, {
+        "size": 278, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 309, "url": "https://twitter.com/thedanielscorp?lang=en"
+    }, {
+        "size": 339, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 370, "url": "https://www.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 400, "url": "https://www.tiktok.com/@thedanielscorp/"
+    }, 650]},
+    {"end_pixel": 5147, "lines_x": [650]},
+]
+
+e76a = [
+    {"end_pixel": 320, "lines_x": [650]},
+    {"end_pixel": 350, "lines_x": [88, {
+        "size": 239, "url": "https://us06web.zoom.us/webinar/register/WN_lEaMU6OgSIKTQJvc65qReA"
+    },650]},
+    {"end_pixel": 443, "lines_x": [650]},
+    {"end_pixel": 833, "lines_x": [650]},
+    {"end_pixel": 1112, "lines_x": [650]},
+    {"end_pixel": 1165, "lines_x": [650]},
+    {"end_pixel": 1200, "lines_x": [152, {
+        "size": 488, "url": "https://us06web.zoom.us/webinar/register/WN_lEaMU6OgSIKTQJvc65qReA"
+    },650]},
+    {"end_pixel": 1463, "lines_x": [650]},
+    {"end_pixel": 1515, "lines_x": [650]},
+    {"end_pixel": 1536, "lines_x": [650]},
+    {"end_pixel": 1580, "lines_x": [60,{
+        "size": 158, "url": "https://danielshomes.ca/"
+    },457, {
+        "size": 494, "url": "https://www.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 529, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 566, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 600, "url": "https://www.tiktok.com/@thedanielscorp"
+    }]},
+    {"end_pixel": 1597, "lines_x": [60, {
+        "size": 145, "url": "https://danielshomes.ca/"
+    },438, {
+        "size": 598, "url": "mailto:customercare@danielscorp.com"
+    },650]},
+    {"end_pixel": 1650, "lines_x": [650]},
 ]
