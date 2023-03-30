@@ -153,10 +153,10 @@ def __main__():
         print("creating folder")
         os.makedirs(output_folder_images)
 
-    csv_file = CreateCSV(output_folder + "/data.csv")
+    csv_file = CreateCSV(output_folder + "/eblast.csv")
 
     #change according to your needs
-    lines = data.e76a
+    lines = data.e79a
 
     for index, value in enumerate(lines):
         initial_height = 0

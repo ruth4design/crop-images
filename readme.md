@@ -1,6 +1,6 @@
 this python script is to crop images according to the coordinates of the bounding box
 
-# Usage
+# Usage of the script
 
 1. create the environment
 
@@ -30,6 +30,24 @@ python3 main.py
 
 6. the cropped images will be saved in the `output` folder
 
+
+# generate html file
+
+1. run the script with the file name and the output directory
+
+```bash
+python3 generate_html.py <file_name> <output_dir>
+```
+
+2. the html file will be saved in the `output` folder
+
+# get the size of the image
+
+1. run the script with the file name and the output directory
+
+```bash
+python3 get_image_size.py
+```
 # Dependencies
 
 check the requirements.txt file
