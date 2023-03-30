@@ -1,9 +1,13 @@
 import cv2
+import argparse
 
-def __main__():
-    image = cv2.imread("image.png")
-    height = image.shape[0]
-    width = image.shape[1]
-    print(height, width)
+def main(image_path):
+    image = cv2.imread(image_path)
+    height, width = image.shape[:2]
+    print(f"Height: {height}, Width: {width}")
 
-__main__()
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Get image dimensions.')
+    parser.add_argument('image_path', metavar='image_path', type=str, help='path to the image file')
+    args = parser.parse_args()
+    main(args.image_path)

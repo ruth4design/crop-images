@@ -46,7 +46,8 @@ python3 generate_html.py <file_name> <output_dir>
 1. run the script with the file name and the output directory
 
 ```bash
-python3 get_image_size.py
+python3 get_image_size.py <file_name_directory> 
+```
 ```
 # Dependencies
 

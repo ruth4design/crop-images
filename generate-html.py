@@ -7,10 +7,11 @@ parser.add_argument('file_name', help='CSV file with image data')
 parser.add_argument('output_dir', help='Directory to output HTML file')
 args = parser.parse_args()
 
-with open(args.file_name, newline='') as csv_file:
+with open(args.file_name, newline='', encoding='utf-8-sig') as csv_file:
     reader = csv.DictReader(csv_file)
     data = [row for row in reader]
 
+print(data)
 data.sort(key=lambda x: x['Image Name'])
 
 rows = []
@@ -37,6 +38,9 @@ with open(html_file_path, 'w') as html_file:
     html_file.write('.row {\n')
     html_file.write('  display: flex;\n')
     html_file.write('}\n')
+    html_file.write('img {\n')
+    html_file.write('  display: block;\n')
+    html_file.write('}\n')
     html_file.write('</style>\n')
     html_file.write('</head>\n')
     html_file.write('<body>\n')
@@ -45,7 +49,7 @@ with open(html_file_path, 'w') as html_file:
         for image in row:
             if image["Link"]:
                 html_file.write(f'<a href="{image["Link"]}">')
-            html_file.write(f'<img src="images/{image["Image Name"]}" alt="{image["Subject"]}" width="{image["Width"]}">')
+            html_file.write(f'<img src="images/{image["Image Name"]}" alt="{image["Subject"]}" title="{image["Subject"]}">')
             if image["Link"]:
                 html_file.write('</a>')
             html_file.write('\n')
