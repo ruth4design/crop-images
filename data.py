@@ -369,3 +369,67 @@ e79a = [
     }, 650]},
     {"end_pixel": 3755, "lines_x": [650]},
 ]
+e84 = [
+    {"end_pixel": 53, "lines_x": [650]},
+    {"end_pixel": 310, "lines_x": [{
+        "size": 278, "url": "https://www.danielsonparliament.com/"
+    },650]},
+    {"end_pixel": 644, "lines_x": [650]},
+    {"end_pixel": 770, "lines_x": [650]},
+    {"end_pixel": 984, "lines_x": [650]},
+    {"end_pixel": 1028, "lines_x": [
+        174, 
+        {"size": 478, "url": " https://danielsonparliament.com/media/South-Tower-Sneak-Peek.pdf"},
+        650
+     ]},
+    {"end_pixel": 1057, "lines_x": [650]},
+    {"end_pixel": 1246, "lines_x": [650]},
+    {"end_pixel": 1495, "lines_x": [650]},
+    {"end_pixel": 1650, "lines_x": [650]},
+    {"end_pixel": 1695, "lines_x": [
+        174,
+        {"size": 478, "url": " https://www.danielsonparliament.com/#register "},
+        650
+    ]},
+    {"end_pixel": 1725, "lines_x": [650]},
+    {"end_pixel": 1882, "lines_x": [650]},
+    {"end_pixel": 1912, "lines_x": [650]},
+    {"end_pixel": 1957, "lines_x": [
+        174,
+        {"size": 478, "url": " https://danielsonparliament.com/media/South-Tower-Sneak-Peek.pdf"},
+        650
+    ]},
+    {"end_pixel": 2052, "lines_x": [650]},
+    {"end_pixel": 2077, "lines_x": [650]},
+    {"end_pixel": 2104, "lines_x": [
+        128,
+        {"size": 519, "url": " https://www.danielsonparliament.com/"},
+        650
+    ]},
+    {"end_pixel": 2135, "lines_x": [
+        71,
+        {"size": 573, "url": "mailto:danielsonparliament@danielscorp.com"},
+        650
+    ]},
+    {"end_pixel": 2166, "lines_x": [
+        236,
+        {"size": 410, "url": "Tel:416-955-0559"},
+        650
+    ]},
+    {"end_pixel": 2205, "lines_x": [650]},
+    {"end_pixel": 2286, "lines_x": [
+        227,
+        {"size": 420, "url": "https://danielshomes.ca/ "},
+        650
+    ]},
+    {"end_pixel": 2319, "lines_x": [
+        249,
+        {"size": 283, "url": " https://www.facebook.com/thedanielscorporation/"},
+        {"size": 323, "url": " https://www.instagram.com/thedanielscorp/?hl=en"},
+        {"size": 363, "url": " https://ca.linkedin.com/company/the-daniels-corporation"},
+        {"size": 396, "url": " https://www.tiktok.com/@thedanielscorp"},
+        650
+    ]},
+    {"end_pixel": 2418, "lines_x": [650]},
+
+]
