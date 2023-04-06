@@ -433,3 +433,32 @@ e84 = [
     {"end_pixel": 2418, "lines_x": [650]},
 
 ]
+
+e82 = [
+    {"end_pixel": 319, "lines_x": [650]},
+    {"end_pixel": 350, "lines_x": [87, {
+        "size": 240, "url": "https://us06web.zoom.us/webinar/register/WN_lEaMU6OgSIKTQJvc65qReA"
+        },650]},
+    {"end_pixel": 1164, "lines_x": [650]},
+    {"end_pixel": 1202, "lines_x": [152, {
+        "size": 488, "url": "https://us06web.zoom.us/webinar/register/WN_lEaMU6OgSIKTQJvc65qReA"
+    }, 650]},
+    {"end_pixel": 1539, "lines_x": [650]},
+    {"end_pixel": 1583, "lines_x": [56, {
+        "size": 162, "url": "https://danielshomes.ca/"
+    }, 456, {
+        "size": 494, "url": "https://www.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 529, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 564, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 599, "url": "https://www.tiktok.com/@thedanielscorp"
+    }]},
+    {"end_pixel": 1599, "lines_x": [56, {
+        "size": 156, "url": "https://danielshomes.ca/"
+    }, 438, {
+        "size": 599, "url": "mailto:customercare@danielscorp.com"
+        }, 650]},
+    {"end_pixel": 1650, "lines_x": [650]},
+]
