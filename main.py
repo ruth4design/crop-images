@@ -144,12 +144,14 @@ class CreateCSV:
 
 
 def __main__():
-    # Read image
-    image = cv2.imread("image.jpg")
+    #change according to your needs
+    format_image = "png"
+    lines = data.e88a
 
+    # Read image
+    image = cv2.imread(f"image.{format_image}")
     output_folder = "output"
     output_folder_images = output_folder + "/images/"
-    format_image = "jpg"
     # create the folder to save the output
     if not os.path.exists(output_folder_images):
         print("creating folder")
@@ -157,8 +159,6 @@ def __main__():
 
     csv_file = CreateCSV(output_folder + "/eblast.csv")
 
-    #change according to your needs
-    lines = data.e84
 
     for index, value in enumerate(lines):
         initial_height = 0
