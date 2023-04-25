@@ -628,3 +628,359 @@ e88a = [
     }, 650]},
     {"end_pixel": 3368, "lines_x": [650]},
 ]
+
+e90 = [
+    {"end_pixel": 59, "lines_x": [650]},
+    {"end_pixel": 88, "lines_x": [650]},
+    {"end_pixel": 237, "lines_x": [38, {
+        "size": 206, "url": "https://www.danielsonparliament.com/"
+    }, 650]},
+    {"end_pixel": 617, "lines_x": [650]},
+    {"end_pixel": 682, "lines_x": [650]},
+    {"end_pixel": 881, "lines_x": [650]},
+    {"end_pixel": 1050, "lines_x": [650]},
+    {"end_pixel": 1368, "lines_x": [650]},
+    {"end_pixel": 1551, "lines_x": [650]},
+    {"end_pixel": 1590, "lines_x": [142,{
+        "size": 508, "url": "https:/danielsonparliament.com/media/South-Tower-Sneak-Peek.pdf"
+    },650]},
+    {"end_pixel": 1609, "lines_x": [650]},
+    {"end_pixel": 1711, "lines_x": [650]},
+    {"end_pixel": 1750, "lines_x": [140,{
+        "size": 510, "url": "mailto:glinares@danielscorp.com"
+    },650]},
+    {"end_pixel": 1805, "lines_x": [650]},
+    {"end_pixel": 1828, "lines_x": [650]},
+    {"end_pixel": 1855, "lines_x": [141, {
+        "size": 508, "url": "https://www.danielsonparliament.com/"
+    },650]},
+    {"end_pixel": 1885, "lines_x": [91, {
+        "size": 558, "url": "mailto:danielsonparliament@danielscorp.com"
+    },650]},
+    {"end_pixel": 1910, "lines_x": [245, {
+        "size": 405, "url": "tel:4169550559"
+    },650]},
+    {"end_pixel": 1930, "lines_x": [650]},
+    {"end_pixel": 1940, "lines_x": [650]},
+    {"end_pixel": 2025, "lines_x": [234, {
+        "size": 416, "url": "https://danielshomes.ca/"
+    }, 650]},
+    {"end_pixel": 2057, "lines_x": [250, {
+        "size": 286, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 326, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 365, "url": "https://ca.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 405, "url": "https://www.tiktok.com/@thedanielscorp"
+    }, 650]},
+    {"end_pixel": 2145, "lines_x": [650]},
+
+
+]
+
+e92a = [
+    {"end_pixel": 132, "lines_x": [650]},
+    {"end_pixel": 177, "lines_x": [650]},
+    {"end_pixel": 336, "lines_x": [156, {
+        "size": 493, "url": "https://danielsmpv.com/"
+    },650]},
+    {"end_pixel": 382, "lines_x": [650]},
+    {"end_pixel": 805, "lines_x": [{
+        "size": 650, "url": "https://danielsmpv.com/"
+    }]},
+    {"end_pixel": 933, "lines_x": [650]},
+    {"end_pixel": 1414, "lines_x": [650]},
+    {"end_pixel": 1485, "lines_x": [43, {
+        "size": 607, "url": "https://www.mpv2portal.com"
+    },650]},
+    {"end_pixel": 1505, "lines_x": [650]},
+    {"end_pixel": 1540, "lines_x": [650]},
+    {"end_pixel": 1907, "lines_x": [650]},
+    {"end_pixel": 2020, "lines_x": [126, {
+        "size": 524, "url": "https://goo.gl/maps/stdS6UcBa7D5x9oG8"
+    }, 650]},
+    {"end_pixel": 2064, "lines_x": [650]},
+    {"end_pixel": 2196, "lines_x": [650]},
+    {"end_pixel": 2266, "lines_x": [38, {
+        "size": 602, "url": "mpv@danielscorp.com"
+    }, 650]},
+    {"end_pixel": 2287, "lines_x": [650]},
+    {"end_pixel": 2358, "lines_x": [38, {
+        "size": 602, "url": "tel:905-230-2552"
+    }, 650]},
+    {"end_pixel": 2412, "lines_x": [650]},
+    {"end_pixel": 2774, "lines_x": [{
+        "size": 650, "url": "https://danielsmpv.com/"
+    }]},
+    {"end_pixel": 2856, "lines_x": [650]},
+    {"end_pixel": 2876, "lines_x": [103, {
+        "size": 389, "url": "mailto:mpv@danielscorp.com"
+    }, {
+        "size": 547, "url": "tel:905-230-2552"
+    }, 650]},
+    {"end_pixel": 2884, "lines_x": [650]},
+    {"end_pixel": 2909, "lines_x": [224, {
+        "size": 426, "url": "https://danielsmpv.com/"
+    }, 650]},
+    {"end_pixel": 2938, "lines_x": [650]},
+    {"end_pixel": 3005, "lines_x": [249, {
+        "size": 401, "url": "https://danielshomes.ca/"
+    }, 650]},
+    {"end_pixel": 3020, "lines_x": [650]},
+    {"end_pixel": 3045, "lines_x": [246, {
+        "size": 278, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 310, "url": "https://twitter.com/thedanielscorp?lang=en"
+    }, {
+        "size": 340, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 370, "url": "https://www.linkedin.com/company/the-daniels-corporation/"
+    }, {
+        "size": 402, "url": "https://www.tiktok.com/@thedanielscorp"
+    }, 650]},
+    {"end_pixel": 3229, "lines_x": [650]},
+]
+
+e93a = [
+    {"end_pixel": 99, "lines_x": [650]},
+    {"end_pixel": 260, "lines_x": [37, {
+        "size": 230, "url": "https://www.danielsonparliament.com/"
+    },650]},
+    {"end_pixel": 637, "lines_x": [650]},
+    {"end_pixel": 762, "lines_x": [650]},
+    {"end_pixel": 807, "lines_x": [173, {
+        "size": 477, "url": "https://danielshomes.ca/"
+    },650]},
+    {"end_pixel": 831, "lines_x": [650]},
+    {"end_pixel": 1057, "lines_x": [650]},
+    {"end_pixel": 1483, "lines_x": [650]},
+    {"end_pixel": 2080, "lines_x": [650]},
+    {"end_pixel": 2124, "lines_x": [175, {
+        "size": 478, "url": "https://danielshomes.ca/"
+    },  650]},
+    {"end_pixel": 2413, "lines_x": [650]},
+    {"end_pixel": 2498, "lines_x": [650]},
+    {"end_pixel": 2543, "lines_x": [175, {
+        "size": 478, "url": "https://danielshomes.ca/"
+    },650]},
+    {"end_pixel": 2565, "lines_x": [650]},
+    {"end_pixel": 2589, "lines_x": [650]},
+    {"end_pixel": 2612, "lines_x": [145, {
+        "size": 508, "url": "https://www.danielsonparliament.com/"
+    },650]},
+    {"end_pixel": 2623, "lines_x": [650]},
+    {"end_pixel": 2653, "lines_x": [90, {
+        "size": 560, "url": "mailto:danielsonparliament@danielscorp.com"
+    }, 650]},
+    {"end_pixel": 2687, "lines_x": [236, {
+        "size": 414, "url": "tel:416-955-0559"
+    },650]},
+    {"end_pixel": 2706, "lines_x": [650]},
+    {"end_pixel": 2734, "lines_x": [650]},
+    {"end_pixel": 2814, "lines_x": [232, {
+        "size": 418, "url": "https://danielshomes.ca/"
+    }]},
+    {"end_pixel": 2848, "lines_x": [243, {
+        "size": 284, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 325, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 365, "url": "https://ca.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 405, "url": "https://www.tiktok.com/@thedanielscorp"
+    }]},
+    {"end_pixel": 2964, "lines_x": [650]},
+]
+
+e95a = [
+    {"end_pixel": 1065, "lines_x": [650]},
+    {"end_pixel": 1452, "lines_x": [650]},
+    {"end_pixel": 1515, "lines_x": [170, {
+        "size": 480, "url": "https://danielshomes.ca/wp-content/uploads/2023/02/Daniels-Sustainability-Roadmap.pdf"
+    },650]},
+    {"end_pixel": 3326, "lines_x": [650]},
+    {"end_pixel": 4274, "lines_x": [650]},
+    {"end_pixel": 5333, "lines_x": [650]},
+    {"end_pixel": 7776, "lines_x": [650]},
+    {"end_pixel": 7791, "lines_x": [650]},
+    {"end_pixel": 7839, "lines_x": [70, {
+        "size": 231, "url": "https://danielshomes.ca/"
+    },447, {
+        "size": 477, "url": "https://www.linkedin.com/company/the-daniels-corporation/"
+    },{
+        "size": 507, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 537, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    },{
+        "size": 567, "url": "https://www.tiktok.com/@thedanielscorp"
+    },650]},
+    {"end_pixel": 7867, "lines_x": [70, {
+        "size": 231, "url": "https://danielshomes.ca/"
+    },650]},
+    {"end_pixel": 7901, "lines_x": [650]},
+
+]
+
+
+e97a = [
+    {"end_pixel": 134, "lines_x": [650]},
+    {"end_pixel": 625, "lines_x": [{
+        "size": 650, "url": "https://www.danielsonparliament.com/"
+    }]},
+    {"end_pixel": 969, "lines_x": [650]},
+    {"end_pixel": 1071, "lines_x": [83, {
+        "size": 567, "url": "https://www.dopaccess.com"
+    },650]},
+    {"end_pixel": 1113, "lines_x": [650]},
+    {"end_pixel": 1517, "lines_x": [650]},
+    {"end_pixel": 1634, "lines_x": [650]},
+    {"end_pixel": 1737, "lines_x": [83, {
+        "size": 567, "url": "https://www.dopaccess.com"
+    },650]},
+    {"end_pixel": 1855, "lines_x": [650]},
+    {"end_pixel": 1899, "lines_x": [83, {
+        "size": 567, "url": "https://www.danielsonparliament.com/#register"
+    },650]},
+    {"end_pixel": 1936, "lines_x": [650]},
+    {"end_pixel": 2012, "lines_x": [650]},
+    {"end_pixel": 2040, "lines_x": [650]},
+    {"end_pixel": 2231, "lines_x": [33, {
+        "size": 276, "url": "https://goo.gl/maps/ir1me2eMgEq2L7Uy6"
+    },650]},
+    {"end_pixel": 2255, "lines_x": [33, {
+        "size": 276, "url": "https://goo.gl/maps/ir1me2eMgEq2L7Uy6"
+    },290, {
+        "size": 545, "url": "https://www.danielsonparliament.com/"
+    },650]},
+    {"end_pixel": 2276, "lines_x": [33, {
+        "size": 276, "url": "https://goo.gl/maps/ir1me2eMgEq2L7Uy6"
+    },290, {
+        "size": 545, "url": "mailto:danielsonparliament@danielscorp.com"
+    },650]},
+    {"end_pixel": 2293, "lines_x": [33, {
+        "size": 276, "url": "https://goo.gl/maps/ir1me2eMgEq2L7Uy6"
+    },650]},
+    {"end_pixel": 2321, "lines_x": [650]},
+    {"end_pixel": 2362, "lines_x": [650]},
+    {"end_pixel": 2443, "lines_x": [235, {
+        "size": 425, "url": "https://www.danielshomes.ca"
+    },650]},
+    {"end_pixel": 2473, "lines_x": [250, {
+        "size": 290, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 330, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 370, "url": "https://www.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 410, "url": "https://www.tiktok.com/@thedanielscorp"
+    }, 650]},
+    {"end_pixel": 2674, "lines_x": [650]},
+]
+
+e99a =  [
+    {"end_pixel": 44, "lines_x": [650]},
+    {"end_pixel": 236, "lines_x": [105, {
+        "size": 529, "url": "https://danielsmpv.com/"
+    },650]},
+    {"end_pixel": 603, "lines_x": [650]},
+    {"end_pixel": 1054, "lines_x": [{
+        "size": 650, "url": "https://danielsmpv.com/"
+    }]},
+    {"end_pixel": 1109, "lines_x": [650]},
+    {"end_pixel": 1294, "lines_x": [650]},
+    {"end_pixel": 1498, "lines_x": [650]},
+    {"end_pixel": 1620, "lines_x": [188,{
+        "size": 462, "url": "https://www.google.com/maps/place/Daniels+Presentation+Centre/@43.6719989,-79.8277317,15z/data=!4m2!3m1!1s0x0:0xf6d1d472f389434f?sa=X&ved=2ahUKEwjw16iOs__9AhUjlYkEHeEECtgQ_BJ6BAh0EAg"
+    },650]},
+    {"end_pixel": 1662, "lines_x": [650]},
+    {"end_pixel": 1996, "lines_x": [650]},
+    {"end_pixel": 2360, "lines_x": [{
+        "size": 650, "url": "https://danielsmpv.com/"
+    }]},
+    {"end_pixel": 3015, "lines_x": [650]},
+    {"end_pixel": 3437, "lines_x": [{
+        "size": 650, "url": "https://danielsmpv.com/"
+    }]},
+    {"end_pixel": 3665, "lines_x": [650]},
+    {"end_pixel": 3815, "lines_x": [650]},
+    {"end_pixel": 3949, "lines_x": [192, {
+        "size": 458, "url": "https://www.google.com/maps/place/Daniels+Presentation+Centre/@43.6719989,-79.8277317,15z/data=!4m2!3m1!1s0x0:0xf6d1d472f389434f?sa=X&ved=2ahUKEwjw16iOs__9AhUjlYkEHeEECtgQ_BJ6BAh0EAg"
+    },650]},
+    {"end_pixel": 3987, "lines_x": [650]},
+    {"end_pixel": 4040, "lines_x": [650]},
+    {"end_pixel": 4491, "lines_x": [101, {
+        "size": 549, "url": "https://www.google.com/maps/place/Daniels+Presentation+Centre/@43.6719989,-79.8277317,15z/data=!4m2!3m1!1s0x0:0xf6d1d472f389434f?sa=X&ved=2ahUKEwjw16iOs__9AhUjlYkEHeEECtgQ_BJ6BAh0EAg"
+    },650]},
+    {"end_pixel": 4543, "lines_x": [650]},
+    {"end_pixel": 4840, "lines_x": [650]},
+    {"end_pixel": 4864, "lines_x": [62, {
+        "size": 396, "url": "mailto:mpv@danielscorp.com"
+    },{
+        "size": 584, "url": "tel:905-230-2552"
+    },650]},
+    {"end_pixel": 4915, "lines_x": [650]},
+    {"end_pixel": 5027, "lines_x": [650]},
+    {"end_pixel": 5051, "lines_x": [227, {
+        "size": 423, "url": "https://danielsmpv.com/"
+    },650]},
+    {"end_pixel": 5084, "lines_x": [650]},
+    {"end_pixel": 5149, "lines_x": [247, {
+        "size": 403, "url": "https://danielshomes.ca/"
+    },650]},
+    {"end_pixel": 5167, "lines_x": [650]},
+    {"end_pixel": 5192, "lines_x": [247, {
+        "size": 278, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 310, "url": "https://twitter.com/thedanielscorp?lang=en"
+    }, {
+        "size": 340, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 370, "url": "https://www.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 400, "url": "https://www.tiktok.com/@thedanielscorp"
+    },650]},
+    {"end_pixel": 5342, "lines_x": [650]},
+]
+
+e100b = [
+    {"end_pixel": 34, "lines_x": [650]},
+    {"end_pixel": 183, "lines_x": [71, {
+        "size": 296, "url": "https://www.danielsonparliament.com/"
+    }, 382, {
+        "size": 572, "url": "https://cafezuzu.com/"
+    },650]},
+    {"end_pixel": 206, "lines_x": [650]},
+    {"end_pixel": 693, "lines_x": [650]},
+    {"end_pixel": 1885, "lines_x": [650]},
+    {"end_pixel": 1931, "lines_x": [177, {
+        "size": 481, "url": "https://cafezuzu.com/menu/resturant-bar-menu?"
+    },650]},
+    {"end_pixel": 2171, "lines_x": [650]},
+    {"end_pixel": 2216, "lines_x": [174, {
+        "size": 477, "url": "https://www.instagram.com/p/CrMS-n_MMkc/?igshid=MDJmNzVkMjY="
+    },650]},
+    {"end_pixel": 2433, "lines_x": [650]},
+    {"end_pixel": 2477, "lines_x": [174, {
+        "size": 477, "url": "https://cafezuzu.com/regentparkcommunityprogram?"
+    },650]},
+    {"end_pixel": 2662, "lines_x": [650]},
+    {"end_pixel": 2707, "lines_x": [39, {
+        "size": 612, "url": "https://cafezuzu.com/contact?"
+    },650]},
+    {"end_pixel": 2852, "lines_x": [650]},
+    {"end_pixel": 2935, "lines_x": [231, {
+        "size": 419, "url": "https://www.danielshomes.ca"
+    },650]},
+    {"end_pixel": 2968, "lines_x": [243, {
+        "size": 286, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 326, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 366, "url": "https://www.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 406, "url": "https://www.tiktok.com/@thedanielscorp"
+    },650]},
+    {"end_pixel": 3062, "lines_x": [650]},
+
+]

@@ -145,8 +145,8 @@ class CreateCSV:
 
 def __main__():
     #change according to your needs
-    format_image = "png"
-    lines = data.e88a
+    format_image = "jpeg"
+    lines = data.e100b
 
     # Read image
     image = cv2.imread(f"image.{format_image}")
