@@ -1,5 +1,7 @@
-import cv2
 import argparse
+
+import cv2
+
 
 def main(image_path):
     image = cv2.imread(image_path)

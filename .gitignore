@@ -16,3 +16,4 @@ share/
 *.pyc
 pyvenv.cfg
 .DS_Store
+fastapi-generate-html/

@@ -984,3 +984,274 @@ e100b = [
     {"end_pixel": 3062, "lines_x": [650]},
 
 ]
+e106a = [
+    {"end_pixel": 65, "lines_x": [650]},
+    {"end_pixel": 607, "lines_x": [{
+        "size": 650, "url": "https://www.danielsonparliament.com/"
+    }]},
+    {"end_pixel": 966, "lines_x": [650]},
+    {"end_pixel": 1007, "lines_x": [66,{
+        "size": 535, "url": "https://danielshomes.ca/wp-content/uploads/2023/02/Daniels-Sustainability-Roadmap.pdf"
+    },650]},
+    {"end_pixel": 1094, "lines_x": [650]},
+    {"end_pixel": 1703, "lines_x": [{
+        "size": 650, "url": "https://www.danielsonparliament.com/floorplans/"
+    }]},
+    {"end_pixel": 1827, "lines_x": [650]},
+    {"end_pixel": 1856, "lines_x": [650]},
+    {"end_pixel": 1886, "lines_x": [112, {
+        "size": 487, "url": "https://www.danielsonparliament.com/"
+    },650]},
+    {"end_pixel": 1919, "lines_x": [57, {
+        "size": 539, "url": "mailto:danielsonparliament@danielscorp.com"
+    },650]},
+    {"end_pixel": 1952, "lines_x": [215, {
+        "size": 382, "url": "tel:416-955-0559"
+    },650]},
+    {"end_pixel": 2106, "lines_x": [650]},
+    {"end_pixel": 2177, "lines_x": [215, {
+        "size": 385, "url": "www.danielshomes.ca"
+    }, 650]},
+    {"end_pixel": 2181, "lines_x": [650]},
+    {"end_pixel": 2210, "lines_x": [227, {
+        "size": 265, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 300, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 338, "url": "https://www.linkedin.com/company/the-daniels-corporation/"
+    }, {
+        "size": 373, "url": "https://www.tiktok.com/@thedanielscorp"
+    }, 650]},
+    {"end_pixel": 2304, "lines_x": [650]},
+
+]
+e111a = [
+    {"end_pixel": 125, "lines_x": [650]},
+    {"end_pixel": 576, "lines_x": [{
+        "size": 650, "url": "https://www.danielsonparliament.com/"
+    }]},
+    {"end_pixel": 903, "lines_x": [650]},
+    {"end_pixel": 975, "lines_x": [77, {
+        "size": 524, "url": "www.dopaccess.com"
+    }, 650]},
+    {"end_pixel": 1553, "lines_x": [650]},
+    {"end_pixel": 1625, "lines_x": [77, {
+        "size": 524, "url": "www.dopaccess.com"
+    }, 650]},
+    {"end_pixel": 1718, "lines_x": [650]},
+    {"end_pixel": 1758, "lines_x": [76, {
+        "size": 524, "url": "https://www.danielsonparliament.com/#register"
+    },650]},
+    {"end_pixel": 1868, "lines_x": [650]},
+    {"end_pixel": 2042, "lines_x": [29, {
+        "size": 247, "url": "https://goo.gl/maps/x6m4a1R7a57KBxTy5?coh=178573&entry=tt"
+    }, 262, {
+        "size": 516, "url": "https://www.danielsonparliament.com/"
+    },650]},
+    {"end_pixel": 2062, "lines_x": [29, {
+        "size": 247, "url": "https://goo.gl/maps/x6m4a1R7a57KBxTy5?coh=178573&entry=tt"
+    }, 262, {
+        "size": 563, "url": "mailto:danielsonparliament@danielscorp.com"
+    },650]},
+    {"end_pixel": 2101, "lines_x": [29, {
+        "size": 247, "url": "https://goo.gl/maps/x6m4a1R7a57KBxTy5?coh=178573&entry=tt"
+    }, 262, {
+        "size": 373, "url": "tel:416-955-0559"
+    }, 650]},
+    {"end_pixel": 2149, "lines_x": [650]},
+    {"end_pixel": 2220, "lines_x": [221, {
+        "size": 389, "url": "https://www.danielshomes.ca"
+    }, 650]},
+    {"end_pixel": 2252, "lines_x": [229, {
+        "size": 268, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 305, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 343, "url": "https://www.linkedin.com/company/the-daniels-corporation/"
+    }, {
+        "size": 378, "url": "https://www.tiktok.com/@thedanielscorp"
+    }]},
+    {"end_pixel": 2340, "lines_x": [650]},
+
+]
+
+e114a = [
+
+    {"end_pixel": 135, "lines_x": [650]},
+    {"end_pixel": 320, "lines_x": [30, {
+        "size": 290, "url": "https://www.danielsonparliament.com/"
+    },650]},
+    {"end_pixel": 856, "lines_x": [650]},
+    {"end_pixel": 910, "lines_x": [83, {
+        "size": 568, "url": "https://app2.livemeeting.ca/meeting/6435660b06a55/"
+    }, 650]},
+    {"end_pixel": 1123, "lines_x": [650]},
+    {"end_pixel": 1202, "lines_x": [83, {
+        "size": 568, "url": "https://dopsouthaccess.com/"
+    },650]},
+    {"end_pixel": 2216, "lines_x": [650]},
+    {"end_pixel": 2260, "lines_x": [83, {
+        "size": 568, "url": "https://www.danielsonparliament.com/#register"
+    },650]},
+    {"end_pixel": 2370, "lines_x": [650]},
+    {"end_pixel": 2396, "lines_x": [32, {
+        "size": 268, "url": "https://www.google.com/maps/place/Regent+Park+Presentation+Centre/@43.6600063,-79.3662693,17z/data=!3m1!4b1!4m6!3m5!1s0x89d4cb46cf94eea5:0x4ef9df49cc8591c7!8m2!3d43.6600024!4d-79.3640806!16s%2Fg%2F11cs2hhtl3"
+    },281,{
+        "size": 570, "url": "https://www.google.com/maps/place/Regent+Park+Presentation+Centre/@43.6600063,-79.3662693,17z/data=!3m1!4b1!4m6!3m5!1s0x89d4cb46cf94eea5:0x4ef9df49cc8591c7!8m2!3d43.6600024!4d-79.3640806!16s%2Fg%2F11cs2hhtl3/"
+    },650]},
+    {"end_pixel": 2492, "lines_x": [32, {
+        "size": 268, "url": "https://www.google.com/maps/place/Regent+Park+Presentation+Centre/@43.6600063,-79.3662693,17z/data=!3m1!4b1!4m6!3m5!1s0x89d4cb46cf94eea5:0x4ef9df49cc8591c7!8m2!3d43.6600024!4d-79.3640806!16s%2Fg%2F11cs2hhtl3"
+    },650]},
+    {"end_pixel": 2629, "lines_x": [32, {
+        "size": 268, "url": "https://www.google.com/maps/place/Regent+Park+Presentation+Centre/@43.6600063,-79.3662693,17z/data=!3m1!4b1!4m6!3m5!1s0x89d4cb46cf94eea5:0x4ef9df49cc8591c7!8m2!3d43.6600024!4d-79.3640806!16s%2Fg%2F11cs2hhtl3"
+    },281, {
+        "size": 570, "url": "https://www.danielsonparliament.com/contact-us/"
+    },650]},
+    {"end_pixel": 2681, "lines_x": [650]},
+    {"end_pixel": 2712, "lines_x": [126, {
+        "size": 524, "url": "https://www.danielsonparliament.com"
+    },650]},
+    {"end_pixel": 2748, "lines_x": [90, {
+        "size": 560, "url": "mailto:danielsonparliament@danielscorp.com"
+    },650]},
+    {"end_pixel": 2783, "lines_x": [238, {
+        "size": 310, "url": "tel:4169550559"
+    },650]},
+    {"end_pixel": 2833, "lines_x": [650]},
+    {"end_pixel": 2915, "lines_x": [251, {
+        "size": 425, "url": "https://www.danielshomes.ca"
+    },650]},
+    {"end_pixel": 2950, "lines_x": [237, {
+        "size": 289, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 329, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 369, "url": "https://www.linkedin.com/company/the-daniels-corporation/"
+    }, {
+        "size": 408, "url": "https://www.tiktok.com/@thedanielscorp"
+    },650]},
+    {"end_pixel": 3080, "lines_x": [650]},
+]
+
+e116A = [
+    { "end_pixel": 34, "lines_x": [650]},
+    { "end_pixel": 134, "lines_x": [40, {
+        "size": 213, "url": "https://danielserinmills.com/"
+    },650]},
+    { "end_pixel": 706, "lines_x": [650]},
+    { "end_pixel": 771, "lines_x": [133, {
+        "size": 517, "url": "https://danielscrm.s3.ca-central-1.amazonaws.com/KITH-REF/The+Kith+Information+Package.pdf"
+    },650]},
+    { "end_pixel": 1594, "lines_x": [650]},
+    { "end_pixel": 1685, "lines_x": [91, {
+        "size": 249, "url": "https://danielserinmills.com/"
+    },650]},
+    { "end_pixel": 1721, "lines_x": [650]},
+    { "end_pixel": 1754, "lines_x": [151, {
+        "size": 356, "url": "mailto:lha@danielscorp.com?subject=Homeowner $5k referral bonus"
+    }, {
+        "size": 499, "url": "tel:9053066996"
+    },650]},
+    { "end_pixel": 1790, "lines_x": [198, {
+        "size": 452, "url": "https://danielserinmills.com/"
+    },650]},
+    { "end_pixel": 2034, "lines_x": [650]},
+    { "end_pixel": 2106, "lines_x": [243, {
+        "size": 407, "url": "https://danielshomes.ca/"
+    },650]},
+    { "end_pixel": 2135, "lines_x": [274, {
+        "size": 300, "url": "https://www.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 325, "url": "https://www.facebook.com/thedanielscorporation"
+    },{
+        "size": 350, "url": "https://www.instagram.com/thedanielscorp"
+    }, {
+        "size": 375, "url": "https://www.tiktok.com/@thedanielscorp"
+    },650]},
+    { "end_pixel": 2230, "lines_x": [650]},
+]
+
+e117A = [
+    { "end_pixel": 46, "lines_x": [650]},
+    { "end_pixel": 164, "lines_x": [47, {
+        "size": 276, "url": "http://thekithcondos.com/"
+    },650]},
+    { "end_pixel": 886, "lines_x": [650]},
+    { "end_pixel": 1110, "lines_x": [{
+        "size": 300, "url": "http://thekithcondos.com/"
+    },650]},
+    { "end_pixel": 1806, "lines_x": [650]},
+    { "end_pixel": 1843, "lines_x": [162, {
+        "size": 488, "url": " https://danielscrm.s3.ca-central-1.amazonaws.com/KITH-REF/The+Kith+Information+Package.pdf?fm_source=bulk_email&fm_medium=email&fm_content=290245&fm_cnt=1515339260341837824"    },650]},
+    { "end_pixel": 1915, "lines_x": [650]},
+    { "end_pixel": 1936, "lines_x": [362, {
+        "size": 553, "url": "mailto:lha@danielscorp.com?subject=The Kith Condominiums- Purchasing Opportunity: Daniels Team"
+    },650]},
+    { "end_pixel": 1982, "lines_x": [650]},
+    { "end_pixel": 2017, "lines_x": [162, {
+        "size": 488, "url": " mailto:lha@danielscorp.com?subject=The Kith Condominiums- Purchasing Opportunity: Daniels Team"
+        },650]},
+    { "end_pixel": 2093, "lines_x": [650]},
+    { "end_pixel": 2115, "lines_x": [106, {
+        "size": 385, "url": "mailto:thekith@danielscorp.com"
+    }, {
+        "size": 543, "url": "tel:9053066996"
+    },650]},
+    { "end_pixel": 2126, "lines_x": [650]},
+    { "end_pixel": 2153, "lines_x": [177, {
+        "size": 473, "url": "https://danielserinmills.com/"
+    },650]},
+    { "end_pixel": 2182, "lines_x": [650]},
+ 
+    { "end_pixel": 2260, "lines_x": [234, {
+        "size": 416, "url": "https://danielshomes.ca/"
+    },650]},
+    { "end_pixel": 2278, "lines_x": [650]},
+    { "end_pixel": 2307, "lines_x": [233, {
+        "size": 274, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 319, "url": "https://www.facebook.com/thedanielscorporation/"
+    },{
+        "size": 364, "url": "https://www.linkedin.com/company/the-daniels-corporation/"
+    },{
+        "size": 409, "url": "https://www.tiktok.com/@thedanielscorp"
+    },650]},
+    { "end_pixel": 2440, "lines_x": [650]},
+]
+
+e119A = [
+    { "end_pixel": 46, "lines_x": [650]},
+    { "end_pixel": 159, "lines_x": [60, {
+        "size": 284, "url": "http://thekithcondos.com/"
+    }, 650]},
+    { "end_pixel": 1041, "lines_x": [650]},
+    { "end_pixel": 1112, "lines_x": [250, {
+        "size": 480, "url": "https://goo.gl/maps/GYueAamB4T1sG94SA "
+    },650]},
+
+    { "end_pixel": 2179, "lines_x": [650]},
+    { "end_pixel": 2197, "lines_x": [103, {
+        "size": 385, "url": "mailto:thekith@danielscorp.com"
+    }, {
+        "size": 543, "url": "tel:9053066996"
+    },650]},
+    { "end_pixel": 2215, "lines_x": [650]},
+    { "end_pixel": 2236, "lines_x": [176, {
+        "size": 473, "url": "https://danielserinmills.com/"
+    },650]},
+    { "end_pixel": 2270, "lines_x": [650]},
+    { "end_pixel": 2343, "lines_x": [235, {
+        "size": 421, "url": "https://danielshomes.ca/"
+    },650]},
+    { "end_pixel": 2364, "lines_x": [650]},
+    { "end_pixel": 2393, "lines_x": [234, {
+        "size": 284, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 329, "url": "https://www.facebook.com/thedanielscorporation/"
+    },{
+        "size": 374, "url": "https://www.linkedin.com/company/the-daniels-corporation/"
+    },{
+        "size": 419, "url": "https://www.tiktok.com/@thedanielscorp"
+    },650]},
+    { "end_pixel": 2526, "lines_x": [650]},
+]
