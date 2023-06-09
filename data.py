@@ -1494,4 +1494,61 @@ cewwa = [
         "size": 650, "url": "https://danielshomes.ca/the-daniels-corporation-celebrates-success-at-the-2023-bild-awards/"
     }]},
     {"end_pixel": 3650, "lines_x": [650]},
+    
+    { "end_pixel": 2526, "lines_x": [650]},
+
+]
+e106a = [
+    {"end_pixel": 810, "lines_x": [{
+        "size": 650, "url": "https://danielserinmills.com/"
+    }]},
+    {"end_pixel": 864, "lines_x": [650]},
+    {"end_pixel": 1089, "lines_x": [ {
+       "size": 299, "url": "https://danielserinmills.com/"
+    }, 650]},
+    {"end_pixel": 1129, "lines_x": [650]},
+    {"end_pixel": 1173, "lines_x": [228, {
+        "size": 422, "url": "https://danielserinmills.com/"
+    },650]},
+    {"end_pixel": 1255, "lines_x": [650]},
+    {"end_pixel": 1804, "lines_x": [{
+        "size": 650, "url": "https://danielserinmills.com/"
+    }]},
+    {"end_pixel": 1844, "lines_x": [650]},
+    {"end_pixel": 1886, "lines_x": [228, {
+        "size": 422, "url": "https://danielserinmills.com/"
+    },650]},
+    {"end_pixel": 2645, "lines_x": [650]},
+    {"end_pixel": 3074, "lines_x": [{
+        "size": 650, "url": "https://danielserinmills.com/"
+    }]},
+    {"end_pixel": 3163, "lines_x": [650]},
+    {"end_pixel": 3206, "lines_x": [228, {
+        "size": 422, "url": "https://danielserinmills.com/"
+    },650]},
+    {"end_pixel": 3251, "lines_x": [650]},
+    {"end_pixel": 3270, "lines_x": [100, {
+        "size": 386, "url": "mailto:thekith@danielscorp.com"
+    }, {
+        "size": 546, "url": "tel:905-306-6996"
+    }, 650]},
+    {"end_pixel": 3284, "lines_x": [650]},
+    {"end_pixel": 3311, "lines_x": [175, {
+        "size": 477, "url": "https://danielserinmills.com/"
+    },650]},
+    {"end_pixel": 3340, "lines_x": [650]},
+    {"end_pixel": 3430, "lines_x": [230, {
+        "size": 420, "url": "https://www.danielshomes.ca"
+    }, 650]},
+    {"end_pixel": 3448, "lines_x": [650]},
+    {"end_pixel": 3478, "lines_x": [230, {
+        "size": 275, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 320, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 365, "url": "https://www.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 410, "url": "https://www.tiktok.com/@thedanielscorp"
+    },650]},
+    {"end_pixel": 3603, "lines_x": [650]},
 ]
