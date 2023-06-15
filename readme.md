@@ -25,11 +25,10 @@ pip install -r requirements.txt
 5. run the script
 
 ```bash
-python3 main.py
+python3 app.py
 ```
 
 6. the cropped images will be saved in the `output` folder
-
 
 # generate html file
 
@@ -46,8 +45,9 @@ python3 generate_html.py <file_name> <output_dir>
 1. run the script with the file name and the output directory
 
 ```bash
-python3 get_image_size.py <file_name_directory> 
+python3 get_image_size.py <file_name_directory>
 ```
+
 ```
 # Dependencies
 
@@ -56,3 +56,4 @@ check the requirements.txt file
 # Note
 
 The script is written in python 3.11.2
+```
