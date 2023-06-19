@@ -24,8 +24,12 @@ class CreateCSVAndImages:
 def main():
     # change according to your needs
     format_image = "png"
+<<<<<<< HEAD
     name_request = "cewwa"
     lines = getattr(data, name_request)
+=======
+    lines = data.e137a
+>>>>>>> 7d3c8af (add data;)
 
     # Read image
     image = cv2.imread(f"image.{format_image}")

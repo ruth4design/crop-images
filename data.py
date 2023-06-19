@@ -1552,3 +1552,147 @@ e106a = [
     },650]},
     {"end_pixel": 3603, "lines_x": [650]},
 ]
+
+e133a = [
+    {"end_pixel": 213, "lines_x": [650]},
+    {"end_pixel": 342, "lines_x": [210, {
+        "size": 440, "url": "https://danielserinmills.com/"
+    },650]},
+    {"end_pixel": 1371, "lines_x": [650]},
+    {"end_pixel": 1418, "lines_x": [81, {
+        "size": 568, "url": "https://www.thekithaccess.com"
+    }, 650]},
+    {"end_pixel": 1832, "lines_x": [650]},
+    {"end_pixel": 1904, "lines_x": [94, {
+        "size": 556, "url": "https://goo.gl/maps/M2mRUXB8T12KbfsLA"
+    }, 650]},
+    {"end_pixel": 2166, "lines_x": [650]},
+    {"end_pixel": 2212, "lines_x": [81, {
+        "size": 568, "url": "https://danielserinmills.com/"
+    }, 650]},
+    {"end_pixel": 2257, "lines_x": [650]},
+    {"end_pixel": 2675, "lines_x": [ {
+        "size": 650, "url": "https://danielserinmills.com/"
+    }]},
+    {"end_pixel": 2824, "lines_x": [650]},
+    {"end_pixel": 2871, "lines_x": [170, {
+        "size": 480, "url": "https://goo.gl/maps/M2mRUXB8T12KbfsLA"
+    },650]},
+    {"end_pixel": 3080, "lines_x": [650]},
+    {"end_pixel": 3518, "lines_x": [66, {
+        "size": 584, "url": "https://goo.gl/maps/M2mRUXB8T12KbfsLA"
+    }, 650]},
+    {"end_pixel": 3731, "lines_x": [650]},
+    {"end_pixel": 3748, "lines_x": [103, {
+        "size": 386, "url": "mailto:thekith@danielscorp.com"
+    }, {
+        "size": 546, "url": "tel:905-306-6996"
+    }, 650]},
+    {"end_pixel": 3766, "lines_x": [650]},
+    {"end_pixel": 3789, "lines_x": [175, {
+        "size": 477, "url": "https://danielserinmills.com/"
+    },650]},
+    {"end_pixel": 3822, "lines_x": [650]},
+    {"end_pixel": 3921, "lines_x": [154, {
+        "size": 344, "url": "https://danielshomes.ca/"
+    },381, {
+        "size": 479, "url": "https://danielshomes.ca/the-daniels-corporation-celebrates-success-at-the-2023-bild-awards/"
+    }, 650]},
+    {"end_pixel": 3944, "lines_x": [650]},
+    {"end_pixel": 3971, "lines_x": [231, {
+        "size": 274, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 320, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 363, "url": "https://www.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 405, "url": "https://www.tiktok.com/@thedanielscorp"
+    },650]},
+    {"end_pixel": 4111, "lines_x": [650]},
+]
+
+e134a = [
+    {"end_pixel": 140, "lines_x": [650]},
+    {"end_pixel": 281, "lines_x": [170, {
+        "size": 480, "url": "https://danielsmpv.com/"
+    },650]},
+    {"end_pixel": 500, "lines_x": [650]},
+    {"end_pixel": 941, "lines_x": [{
+        "size": 650, "url": "https://danielsmpv.com/"
+    }]},
+    {"end_pixel": 4313, "lines_x": [650]},
+    {"end_pixel": 4378, "lines_x": [152, {
+        "size": 395, "url": "https://danielsmpv.com/"
+    }, 650]},
+    {"end_pixel": 4572, "lines_x": [650]},
+    {"end_pixel": 4685, "lines_x": [202, {
+        "size": 448, "url": "https://goo.gl/maps/D13PemQ9UrUtTddR9"
+    }, 650]},
+    {"end_pixel": 4972, "lines_x": [650]},
+    {"end_pixel": 4997, "lines_x": [68, {
+        "size": 395, "url": "mailto:mpv@danielscorp.com"
+    }, {
+        "size": 582, "url": "tel:905-230-2552"
+    },650]},
+    {"end_pixel": 5145, "lines_x": [650]},
+    {"end_pixel": 5237, "lines_x": [248, {
+        "size": 399, "url": "https://danielshomes.ca/"
+    },456, {
+        "size": 550, "url": "https://danielshomes.ca/the-daniels-corporation-celebrates-success-at-the-2023-bild-awards/"
+    },650]},
+    {"end_pixel": 5260, "lines_x": [261, {
+        "size": 295, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 325, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 356, "url": "https://www.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 388, "url": "https://www.tiktok.com/@thedanielscorp"
+    }, 456, {
+        "size": 550, "url": "https://danielshomes.ca/the-daniels-corporation-celebrates-success-at-the-2023-bild-awards/"
+    }, 650]},
+    {"end_pixel": 5430, "lines_x": [650]},
+]
+
+e137a = [
+    {"end_pixel": 979, "lines_x": [650]},
+    {"end_pixel": 1031, "lines_x": [87, {
+        "size": 563, "url": "https://danielsaccess.com/project/daniels-on-parliament-south-tower-platinum/"
+    }, 650]},
+    {"end_pixel": 1398, "lines_x": [650]},
+    {"end_pixel": 1452, "lines_x": [212, {
+        "size": 438, "url": "https://danielsaccess.com/"
+    }, 650]},
+    {"end_pixel": 1758, "lines_x": [650]},
+    {"end_pixel": 1789, "lines_x": [535, {
+        "size": 638, "url": "https://danielshomes.ca/the-daniels-corporation-celebrates-success-at-the-2023-bild-awards/"
+    
+    }, 650]},
+    {"end_pixel": 1814, "lines_x": [70, {
+        "size": 230, "url": "https://danielshomes.ca/"
+    },260,  {
+        "size": 284, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 308, "url": "https://www.facebook.com/thedanielscorporation/"
+    }, {
+        "size": 333, "url": "https://www.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 358, "url": "https://www.tiktok.com/@thedanielscorp"
+    }, 535, {
+        "size": 638, "url": "https://danielshomes.ca/the-daniels-corporation-celebrates-success-at-the-2023-bild-awards/"
+    },650]},
+    {"end_pixel": 1839, "lines_x": [70, {
+        "size": 230, "url": "https://danielshomes.ca/"
+    }, 260, {
+        "size": 425, "url": "https://danielshomes.ca/"
+    }, 535, {
+        "size": 638, "url": "https://danielshomes.ca/the-daniels-corporation-celebrates-success-at-the-2023-bild-awards/"}
+    ,650]},
+    {"end_pixel": 1864, "lines_x": [70, {
+        "size": 230, "url": "https://danielshomes.ca/"
+    }, 535, {
+        "size": 638, "url": "https://danielshomes.ca/the-daniels-corporation-celebrates-success-at-the-2023-bild-awards/"
+    }, 650]},
+    {"end_pixel": 1928, "lines_x": [650]},
+
+]
