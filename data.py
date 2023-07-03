@@ -1659,9 +1659,17 @@ e137a = [
     {"end_pixel": 1031, "lines_x": [87, {
         "size": 563, "url": "https://danielsaccess.com/project/daniels-on-parliament-south-tower-platinum/"
     }, 650]},
+    {"end_pixel": 1047, "lines_x": [650]},
+    {"end_pixel": 1071, "lines_x": [210, {
+        "size": 440, "url": "https://danielsaccess.com/project/daniels-on-parliament-south-tower-platinum/"
+    }, 650]},
     {"end_pixel": 1398, "lines_x": [650]},
     {"end_pixel": 1452, "lines_x": [212, {
         "size": 438, "url": "https://danielsaccess.com/"
+    }, 650]},
+    {"end_pixel": 1470, "lines_x": [650]},
+    {"end_pixel": 1494, "lines_x": [210, {
+        "size": 440, "url": "https://danielsaccess.com/"
     }, 650]},
     {"end_pixel": 1758, "lines_x": [650]},
     {"end_pixel": 1789, "lines_x": [535, {
