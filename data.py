@@ -1704,3 +1704,52 @@ e137a = [
     {"end_pixel": 1928, "lines_x": [650]},
 
 ]
+
+e141a = [
+    {"end_pixel": 79, "lines_x": [650]},
+    {"end_pixel": 198, "lines_x": [147, {
+        "size": 501, "url": "https://thethornhill.com/"
+    }, 650]},
+    {"end_pixel": 865, "lines_x": [650]},
+    {"end_pixel": 1176, "lines_x": [71, {
+        "size": 579, "url": "https://thethornhill.com/"
+    }, 650]},
+    {"end_pixel": 1515, "lines_x": [650]},
+    {"end_pixel": 1796, "lines_x": [{
+        "size": 650, "url": "https://thethornhill.com/"
+    }]},
+    {"end_pixel": 3076, "lines_x": [650]},
+    {"end_pixel": 3397, "lines_x": [{
+        "size": 650, "url": "https://thethornhill.com/"
+    }]},
+    {"end_pixel": 3415, "lines_x": [650]},
+    {"end_pixel": 3451, "lines_x": [39, {
+        "size": 213, "url": "https://thethornhill.com/"
+    }, 483, {
+        "size": 607, "url": "https://www.danielshomes.ca"
+    }, 650]},
+    {"end_pixel": 3470, "lines_x": [39, {
+        "size": 165, "url": "tel:4167928800"
+    }, 650]},
+    {"end_pixel": 3480, "lines_x": [650]},
+    {"end_pixel": 3512, "lines_x": [39, {
+        "size": 65, "url": "https://www.instagram.com/thedanielscorp/?hl=en"
+    }, {
+        "size": 88, "url": "https://www.facebook.com/thedanielscorp/"
+    }, {
+        "size": 118, "url": "https://www.linkedin.com/company/the-daniels-corporation"
+    }, {
+        "size": 147, "url": "https://www.tiktok.com/@thedanielscorp"
+    }, 490, {
+        "size": 600, "url": "https://danielshomes.ca/the-daniels-corporation-celebrates-success-at-the-2023-bild-awards/"
+    }, 650]},
+    {
+        "end_pixel": 3594, "lines_x": [490, {
+            "size": 600, "url": "https://danielshomes.ca/the-daniels-corporation-celebrates-success-at-the-2023-bild-awards/"
+        }, 650]},
+    {"end_pixel": 3610, "lines_x": [650]},
+
+
+
+
+]
