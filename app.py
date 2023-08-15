@@ -24,11 +24,11 @@ class CreateCSVAndImages:
 def main():
     # change according to your needs
     format_image = "png"
-    name_request = "e137a"
+    name_request = "E166A"
     lines = getattr(data, name_request)
-
+    file_name = f"image.{format_image}"
     # Read image
-    image = cv2.imread(f"image.{format_image}")
+    image = cv2.imread(file_name)
     output_folder = name_request
     output_folder_images = os.path.join(output_folder, "images")
     # create the folder to save the output
@@ -39,7 +39,6 @@ def main():
     for index, value in enumerate(lines):
         initial_height = 0 if index == 0 else int(
             lines[index - 1]["end_pixel"])
-
         for index_x, val_x in enumerate(value["lines_x"]):
             value_x = val_x
             url = ""
