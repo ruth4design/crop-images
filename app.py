@@ -24,7 +24,7 @@ class CreateCSVAndImages:
 def main():
     # change according to your needs
     format_image = "png"
-    name_request = "E166A"
+    name_request = "E168A"
     lines = getattr(data, name_request)
     file_name = f"image.{format_image}"
     # Read image
